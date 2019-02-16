@@ -1,5 +1,5 @@
-var url=window.location.href;
-var swloc  ="/twittor/sw.js";
+var url = window.location.href;
+var swloc  = "/twittor/sw.js";
 if(navigator.serviceWorker)
 {
 
